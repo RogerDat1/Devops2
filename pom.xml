@@ -165,11 +165,10 @@
 		      </plugin>
 	    </plugins>
 	  </reporting>
-	
-    <distributionManagement>
+	<distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>val-TravelMate-4730-snapshots</name>
+        <name>mint-snapshots</name>
         <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
 </distributionManagement>
